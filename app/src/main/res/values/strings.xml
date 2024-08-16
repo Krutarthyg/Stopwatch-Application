@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name="Counter_Application">TextView</string>
+    <string name="counter_application">Counter Application</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
